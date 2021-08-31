@@ -2,7 +2,6 @@
 
 Aryan Mathur is a freshman at Purdue University majoring in CS 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Aryan Mathur's First CS193 Homework
 
@@ -18,8 +17,7 @@ Favorite Things about CS 193
 
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+[comment]: <> (
 ```markdown
 Syntax highlighted code block
 
@@ -46,4 +44,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.)
+
